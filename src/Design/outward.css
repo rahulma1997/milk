@@ -1,0 +1,47 @@
+.Tabel-box {
+  text-align: center;
+  max-width: 750px;
+  height: 850px;
+  margin-top: 70px;
+  margin-left: 350px;
+  background-color: white;
+  border-radius: 15px;  
+}
+.outward-rate{
+  position: relative;
+  top: -25px;
+  margin-left: 20px;
+}
+.Hadding {
+  font-size: 24px;
+  padding-top: 20px;
+  margin-bottom: 30px;
+  color: #333;
+  text-align: center;
+}
+.outwad-save-btn{
+  margin-top: 40px;
+}
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-left: 10px; 
+}
+table, th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+td {
+  background-color: #fff;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-right: 20px;
+}
